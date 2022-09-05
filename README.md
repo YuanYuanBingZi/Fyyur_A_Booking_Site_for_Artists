@@ -1,4 +1,4 @@
-Fyyur
+Fyyur---A Booking Site for Artists
 -----
 
 ## Introduction
